@@ -1,1 +1,1 @@
-# wu-group-challenge
+# W2D1CHALLENGE
